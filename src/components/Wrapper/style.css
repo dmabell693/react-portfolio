@@ -1,0 +1,211 @@
+body {
+  background-image: url("../../images/papyrus-dark/papyrus-dark.png");
+  font-family: Arial, Helvetica, sans-serif;
+  color: #777777;
+}
+
+nav {
+  background-color: #323330;
+  border-bottom: 2px solid #cccccc;
+}
+
+a {
+  color: #323330;
+}
+
+a:hover {
+  color: #323330;
+  opacity: 50%;
+}
+
+footer {
+  background-color: #323330;
+  color: #dab903;
+  border-top: 8px solid #dab903;
+  padding: 0.5rem;
+  font-size: small;
+}
+
+.navbar {
+  padding: 0;
+  margin-bottom: 2.5rem;
+}
+
+.navbar-brand {
+  background-color: #dab903;
+  color: #323330 !important;
+  padding: 1rem 1.5rem 1rem 1.75rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.nav-link {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.card-title {
+  padding: 0 1rem;
+  margin: 1.7rem 0;
+}
+
+.fixed-bottom {
+  height: 2.5rem;
+}
+
+.profile-link {
+  color: #dab903;
+}
+
+#left-nav {
+  border-right: 1px solid #cccccc;
+  padding-right: 24px;
+  color: #dab903;
+}
+
+#left-nav:hover {
+  opacity: 50%;
+}
+
+#center-nav {
+  border-right: 1px solid #cccccc;
+  padding: 0 24px;
+  color: #dab903;
+}
+
+#center-nav:hover {
+  opacity: 50%;
+}
+
+#right-nav {
+  padding-left: 24px;
+  color: #dab903;
+}
+
+#right-nav:hover {
+  opacity: 50%;
+}
+
+#card-row {
+  padding-bottom: 0;
+}
+
+@media screen and (max-width: 992px) {
+  #left-nav, #center-nav, #right-nav {
+      border-right: 0;
+      padding: 0;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .nav-item {
+      padding-right: 1rem;
+  }
+}
+
+/* END NAVBAR SPECIFIC STYLING */
+
+h3 {
+  font-size: 24px;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.container {
+  background-color: #323330;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.content-container {
+  background-color: #323330;
+  /* opacity: 85%; */
+  padding-left: 30px;
+  padding-right: 30px;
+  /* margin-bottom: 4rem; */
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+  padding-bottom: 1rem;
+}
+
+.border-row {
+  padding-bottom: 1rem;
+}
+
+.top-col {
+  border-bottom: 2px solid #cccccc;
+  margin-bottom: 1.5rem;
+  padding-left: 0;
+}
+
+#content-header {
+  color: #dab903 !important;
+  background-color: #323330;
+  padding-left: 0;
+  padding-top: 2rem;
+}
+
+
+#index-container {
+  background-image: url("../../images/papyrus-dark/papyrus-dark.png");
+}
+
+#about-card {
+  max-width: 540px;
+}
+
+/* PORTFOLIO-SPECIFIC CSS */
+
+.hover-outline:hover {
+  opacity: 50%;
+}
+
+.card-header, .card-footer {
+  background-color: #dab903;
+  color: #323330;
+}
+
+.card-header {
+  /* background-color: #dab903; */
+  /* color: #ffffff; */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: medium;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.card-footer {
+  padding: 0;
+  /* background-color: #dab903; */
+  /* color: #ffffff; */
+}
+
+/* CONTACT SPECIFIC CSS */
+
+form {
+  padding-bottom: 2rem;
+}
+
+label {
+  color: #dab903;
+}
+
+#submitButton {
+  background-color: #dab903;
+  color: #ffffff;
+}
+
+#submitButton:hover {
+  color: #ffffff;
+  opacity: 50%;
+}

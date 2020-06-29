@@ -1,0 +1,7 @@
+#about-container {
+    background-image: url("../../images/papyrus-dark/papyrus-dark.png");
+}
+
+#about-card {
+    max-width: 540px;
+}
