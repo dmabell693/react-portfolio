@@ -22,7 +22,9 @@ function About() {
                                 <h6 className="card-title"><a className="profile-link" href="https://github.com/dmabell693" target="_blank" rel="noopener noreferrer">Github</a></h6>
                                 <h6 className="card-title"><a className="profile-link" href="https://www.linkedin.com/in/daniel-abell-782350199/" target="_blank" rel="noopener noreferrer">LinkedIn</a></h6>
                                 <h6 className="card-title"><a className="profile-link" href="assets/images/Abell_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a></h6>
-                                <h6 className="card-title">email: dmabell693@gmail.com</h6>
+                                <h6 className="card-title">
+                                    email: <a className="profile-link" href="/contact">dmabell693@gmail.com</a>
+                                </h6>
                                 <h6 className="card-title">cell: (804) 836-4095</h6>
                             </div>
                         </div>
