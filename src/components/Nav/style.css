@@ -12,14 +12,6 @@ a:hover {
     opacity: 50%;
 }
 
-footer {
-    background-color: #323330;
-    color: #dab903;
-    border-top: 8px solid #dab903;
-    padding: 0.5rem;
-    font-size: small;
-}
-
 .navbar {
     padding: 0;
     margin-bottom: 2.5rem;
@@ -39,26 +31,13 @@ footer {
     padding-bottom: 0;
 }
 
-.card-title {
-    padding: 0 1rem;
-    margin: 1.7rem 0;
-}
-
-.fixed-bottom {
-    height: 2.5rem;
-}
-
-.profile-link {
-    color: #dab903;
-}
-
 #left-nav {
     border-right: 1px solid #cccccc;
     padding-right: 24px;
     color: #dab903;
 }
 
-#left-nav:hover {
+#left-nav:hover, #right-nav:hover, #center-nav:hover {
     opacity: 50%;
 }
 
@@ -68,21 +47,9 @@ footer {
     color: #dab903;
 }
 
-#center-nav:hover {
-    opacity: 50%;
-}
-
 #right-nav {
     padding-left: 24px;
     color: #dab903;
-}
-
-#right-nav:hover {
-    opacity: 50%;
-}
-
-#card-row {
-    padding-bottom: 0;
 }
 
 @media screen and (max-width: 992px) {

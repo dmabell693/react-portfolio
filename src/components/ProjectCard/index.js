@@ -7,7 +7,9 @@ function ProjectCard(props) {
 
         <div className="card m-4">
             <div className="card-header text-center">
-                <h3 className="rounded">{props.title}</h3>
+                <h3 className="rounded">
+                    <a href={props.deployedURL} target="_blank" rel="noopener noreferrer">{props.title}</a>
+                </h3>
             </div>
             <div className="card-body">
                 <a href={props.deployedURL} target="_blank" rel="noopener noreferrer">

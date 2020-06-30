@@ -4,9 +4,9 @@ import "./style.css";
 function PageHeader(props) {
 
     return (
-        <div class="row border-row">
-            <div class="col top-col">
-                <span class="navbar-brand mb-0 h1" id="content-header">{props.title}</span>
+        <div className="row border-row">
+            <div className="col top-col">
+                <span className="navbar-brand mb-0 h1" id="content-header">{props.title}</span>
             </div>
         </div>
     )
