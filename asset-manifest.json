@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.faa63f82.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.1aaa73bc.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.1aaa73bc.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.6a3e31a4.chunk.js": "/react-portfolio/static/js/2.6a3e31a4.chunk.js",
+    "static/js/2.6a3e31a4.chunk.js.map": "/react-portfolio/static/js/2.6a3e31a4.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.4ca49aca4a9660ec9bceb20fe978da27.js": "/react-portfolio/precache-manifest.4ca49aca4a9660ec9bceb20fe978da27.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.faa63f82.chunk.css.map": "/react-portfolio/static/css/main.faa63f82.chunk.css.map",
+    "static/js/2.6a3e31a4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.6a3e31a4.chunk.js.LICENSE.txt",
+    "static/media/Trales-and-Ales-screenshot.png": "/react-portfolio/static/media/Trales-and-Ales-screenshot.75b827b2.png",
+    "static/media/burgernator-screenshot.png": "/react-portfolio/static/media/burgernator-screenshot.ce2928a5.png",
+    "static/media/employee-tracker-screenshot.png": "/react-portfolio/static/media/employee-tracker-screenshot.260e7824.png",
+    "static/media/hike-hire-screenshot.png": "/react-portfolio/static/media/hike-hire-screenshot.3d8a1c67.png",
+    "static/media/style.css": "/react-portfolio/static/media/papyrus-dark.04026feb.png",
+    "static/media/profile-pic.jpeg": "/react-portfolio/static/media/profile-pic.72d54d3e.jpeg",
+    "static/media/react-employee-directory-portfolio-screenshot.png": "/react-portfolio/static/media/react-employee-directory-portfolio-screenshot.ab735431.png",
+    "static/media/team-profile-generator-scrnsht-update.png": "/react-portfolio/static/media/team-profile-generator-scrnsht-update.d9506f91.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.6a3e31a4.chunk.js",
+    "static/css/main.faa63f82.chunk.css",
+    "static/js/main.1aaa73bc.chunk.js"
+  ]
+}
