@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.faa63f82.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.079addb1.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.079addb1.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.fae0dff6.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.44bced67.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.44bced67.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
-    "static/js/2.1798a1ee.chunk.js": "/react-portfolio/static/js/2.1798a1ee.chunk.js",
-    "static/js/2.1798a1ee.chunk.js.map": "/react-portfolio/static/js/2.1798a1ee.chunk.js.map",
+    "static/js/2.cdce26ea.chunk.js": "/react-portfolio/static/js/2.cdce26ea.chunk.js",
+    "static/js/2.cdce26ea.chunk.js.map": "/react-portfolio/static/js/2.cdce26ea.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.38236aa3acfd17f2b1c93fa22219beed.js": "/react-portfolio/precache-manifest.38236aa3acfd17f2b1c93fa22219beed.js",
+    "precache-manifest.820e197d4e3e321adc47fd249b79c6d6.js": "/react-portfolio/precache-manifest.820e197d4e3e321adc47fd249b79c6d6.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.faa63f82.chunk.css.map": "/react-portfolio/static/css/main.faa63f82.chunk.css.map",
-    "static/js/2.1798a1ee.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.1798a1ee.chunk.js.LICENSE.txt",
+    "static/css/main.fae0dff6.chunk.css.map": "/react-portfolio/static/css/main.fae0dff6.chunk.css.map",
+    "static/js/2.cdce26ea.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.cdce26ea.chunk.js.LICENSE.txt",
     "static/media/Trales-and-Ales-screenshot.png": "/react-portfolio/static/media/Trales-and-Ales-screenshot.75b827b2.png",
     "static/media/burgernator-screenshot.png": "/react-portfolio/static/media/burgernator-screenshot.ce2928a5.png",
     "static/media/employee-tracker-screenshot.png": "/react-portfolio/static/media/employee-tracker-screenshot.260e7824.png",
     "static/media/hike-hire-screenshot.png": "/react-portfolio/static/media/hike-hire-screenshot.3d8a1c67.png",
-    "static/media/style.css": "/react-portfolio/static/media/papyrus-dark.04026feb.png",
+    "static/media/index.css": "/react-portfolio/static/media/papyrus-dark.04026feb.png",
     "static/media/profile-pic.jpeg": "/react-portfolio/static/media/profile-pic.72d54d3e.jpeg",
     "static/media/react-employee-directory-portfolio-screenshot.png": "/react-portfolio/static/media/react-employee-directory-portfolio-screenshot.ab735431.png",
     "static/media/team-profile-generator-scrnsht-update.png": "/react-portfolio/static/media/team-profile-generator-scrnsht-update.d9506f91.png"
   },
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
-    "static/js/2.1798a1ee.chunk.js",
-    "static/css/main.faa63f82.chunk.css",
-    "static/js/main.079addb1.chunk.js"
+    "static/js/2.cdce26ea.chunk.js",
+    "static/css/main.fae0dff6.chunk.css",
+    "static/js/main.44bced67.chunk.js"
   ]
 }
