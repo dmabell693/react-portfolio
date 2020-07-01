@@ -22,9 +22,6 @@ function App() {
           <Route exact path={"/contact"}>
             <Contact />
           </Route>
-          <Route path={"/"}>
-            <About />
-          </Route>
         </Switch>
         <Footer />
       </Wrapper>
