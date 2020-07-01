@@ -9,7 +9,7 @@ a {
 
 a:hover {
     color: #323330;
-    opacity: 50%;
+    opacity: 0.5;
 }
 
 .navbar {
@@ -44,7 +44,7 @@ a:hover {
 }
 
 #left-nav:hover, #right-nav:hover, #center-nav:hover {
-    opacity: 50%;
+    opacity: 0.5;
 }
 
 #center-nav {
