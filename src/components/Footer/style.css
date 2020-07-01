@@ -1,0 +1,11 @@
+footer {
+    background-color: #323330;
+    color: #dab903;
+    border-top: 8px solid #dab903;
+    padding: 0.5rem;
+    font-size: small;
+}
+
+.fixed-bottom {
+    height: 2.5rem;
+}

@@ -1,0 +1,13 @@
+.container {
+    background-color: #323330;
+    padding-left: 0;
+    padding-right: 0;
+}
+  
+.content-container {
+    background-color: #323330;
+    /* opacity: 85%; */
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    margin-bottom: 4rem;
+}

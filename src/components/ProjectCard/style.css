@@ -1,0 +1,27 @@
+h3 {
+    font-size: 24px;
+}
+
+p {
+    line-height: 2rem;
+}
+
+.card-header, .card-footer {
+    background-color: #dab903;
+    color: #323330;
+}
+
+.card-header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: medium;
+}
+  
+.card-body {
+    padding: 0;
+}
+  
+.card-footer {
+    padding: 0;
+}

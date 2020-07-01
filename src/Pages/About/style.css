@@ -1,7 +1,26 @@
-#about-container {
-    background-image: url("../../images/papyrus-dark/papyrus-dark.png");
+.row {
+    margin-left: 0;
+    margin-right: 0;
+    padding-bottom: 1rem;
 }
+
+.card-title {
+    padding: 0 1rem;
+    margin: 1.7rem 0;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.profile-link {
+    color: #dab903;
+}    
 
 #about-card {
     max-width: 540px;
+}
+
+#card-row {
+    padding-bottom: 0;
 }

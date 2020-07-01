@@ -4,7 +4,6 @@ import PageHeader from "../../components/PageHeader";
 import ProjectCardWrapper from "../../components/ProjectCardWrapper";
 import ProjectCard from "../../components/ProjectCard";
 import projects from "./projectData";
-import "./style.css";
 
 function Projects() {
 
