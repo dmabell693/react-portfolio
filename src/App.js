@@ -5,11 +5,11 @@ import About from "./Pages/About";
 import Projects from "./Pages/Projects";
 import Contact from "./Pages/Contact";
 import Footer from "./components/Footer";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <Router basename={process.env.PUBLIC_URL}>
       <Wrapper>
         <Nav />
         <Switch>
@@ -19,7 +19,7 @@ function App() {
         </Switch>
         <Footer />
       </Wrapper>
-    </BrowserRouter>
+    </Router>
   );
 }
 
