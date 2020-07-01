@@ -6,7 +6,6 @@ function PageWrapper(props) {
     return (
         <div className="container content-container">
             {props.children}
-            Hello
         </div>
     )
 }
