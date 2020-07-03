@@ -5,21 +5,21 @@ import About from "./Pages/About";
 import Projects from "./Pages/Projects";
 import Contact from "./Pages/Contact";
 import Footer from "./components/Footer";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch, HashRouter } from "react-router-dom";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <HashRouter>
       <Wrapper>
         <Nav />
         <Switch>
-          <Route exact path={"/projects"} component={Projects} />
-          <Route exact path={"/contact"} component={Contact} />
           <Route exact path={["/", "/about"]} component={About} />
+          <Route path={"/projects"} component={Projects} />
+          <Route path={"/contact"} component={Contact} />
         </Switch>
         <Footer />
       </Wrapper>
-    </Router>
+    </HashRouter>
   );
 }
 
