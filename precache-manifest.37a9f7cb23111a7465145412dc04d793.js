@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad039aa6872df76703180015c3f80b08",
+    "revision": "cd1439278b449ff099bd3c3e3dd0de27",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "37c54a4b10098be42cd7",
+    "revision": "9b46d736504904a0c1e4",
     "url": "/react-portfolio/static/css/main.8108f5bc.chunk.css"
   },
   {
@@ -16,24 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.ebe64ed2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37c54a4b10098be42cd7",
-    "url": "/react-portfolio/static/js/main.218b275e.chunk.js"
+    "revision": "9b46d736504904a0c1e4",
+    "url": "/react-portfolio/static/js/main.f5ff610b.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
     "url": "/react-portfolio/static/js/runtime-main.213b1880.js"
   },
   {
-    "revision": "a0265ca363f87f12c97f7f0b82e5b1de",
-    "url": "/react-portfolio/static/media/Abell_Resume.a0265ca3.pdf"
+    "revision": "c2395356406827f6d9d01e8fb83131a7",
+    "url": "/react-portfolio/static/media/Abell_Resume.c2395356.pdf"
   },
   {
     "revision": "75b827b2e9cdd161ee69186e8d85eac7",
     "url": "/react-portfolio/static/media/Trales-and-Ales-screenshot.75b827b2.png"
-  },
-  {
-    "revision": "ce2928a5dc8df941589b077f280d172a",
-    "url": "/react-portfolio/static/media/burgernator-screenshot.ce2928a5.png"
   },
   {
     "revision": "260e78247f8128b5c248804a86e7cd78",
@@ -58,5 +54,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d9506f91ad1e740be924af5bcd045ef3",
     "url": "/react-portfolio/static/media/team-profile-generator-scrnsht-update.d9506f91.png"
+  },
+  {
+    "revision": "ccec2bdbcadc0ef423eda798d45892b5",
+    "url": "/react-portfolio/static/media/whats-good-screenshot.ccec2bdb.png"
   }
 ]);
