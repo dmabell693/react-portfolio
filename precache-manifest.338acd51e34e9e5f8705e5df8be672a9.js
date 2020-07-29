@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd1439278b449ff099bd3c3e3dd0de27",
+    "revision": "0bd3bc917202c863e16a08dd78337fda",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "9b46d736504904a0c1e4",
+    "revision": "447b2ef98ccdc9ec489f",
     "url": "/react-portfolio/static/css/main.8108f5bc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.ebe64ed2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b46d736504904a0c1e4",
-    "url": "/react-portfolio/static/js/main.f5ff610b.chunk.js"
+    "revision": "447b2ef98ccdc9ec489f",
+    "url": "/react-portfolio/static/js/main.7ef6f58a.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
@@ -56,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/team-profile-generator-scrnsht-update.d9506f91.png"
   },
   {
-    "revision": "ccec2bdbcadc0ef423eda798d45892b5",
-    "url": "/react-portfolio/static/media/whats-good-screenshot.ccec2bdb.png"
+    "revision": "4283457098a35eaad984ab24f42ff2f4",
+    "url": "/react-portfolio/static/media/whats-good-screenshot-dkmode.42834570.png"
   }
 ]);
