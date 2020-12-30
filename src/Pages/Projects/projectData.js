@@ -12,7 +12,7 @@ const projectData =
         "title": "What's Good",
         "screenshot": whatsgood,
         "deployedURL": "https://whatsgood-v1.herokuapp.com/",
-        "repoURL": "https://github.com/emijoha/Project3"
+        "repoURL": "https://github.com/emijoha/WhatsGood"
     },
     {
         "id": 2,
